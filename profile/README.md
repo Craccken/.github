@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat">
     <img src="https://img.shields.io/liberapay/receives/craccken.svg?logo=liberapay">
     <img src="https://ripgvc.herokuapp.com/?username=craccken&color=e61245&round">
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat">
 </p>
